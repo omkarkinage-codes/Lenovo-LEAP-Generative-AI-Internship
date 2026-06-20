@@ -7,10 +7,11 @@ This multi-tenant conversational prototype serves as the core implementation pha
 
 ---
 
-## 📊 Project Presentation & Workflow Blueprint
+## 📊 Project Presentation & Interactive Demo
 
+👉 **[ Click Here to Chat Live with EduEco AI!](https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/18/17/20260618171139-229U7627.json)**
 
-![Botpress Workflow Blueprint](workflow.png) 
+![Botpress Workflow Blueprint](workflow.png)
 
 ---
 
