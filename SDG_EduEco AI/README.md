@@ -1,9 +1,16 @@
-#  EduEco AI - Multi-SDG Conversational Agent
+# EduEco AI - Multi-SDG Conversational Agent
 
 ## 📌 Project Overview
 This repository contains the full operational deployment files for my **AI Capstone Project**, completed as the primary milestone of my virtual internship in **Generative AI & Agentic Systems Engineering**. This program is hosted under the **Lenovo LEAP NextGen Scholar Program** (an initiative of Lenovo, implemented by BharatCares, in association with AICTE).
 
 This multi-tenant conversational prototype serves as the core implementation phase of the internship, demonstrating practical technical expertise in conversational state management, node routing architectures, and prompt boundary conditions before proceeding to the final Skill India certification assessment.
+
+---
+
+## 📊 Project Presentation & Workflow Blueprint
+
+
+![Botpress Workflow Blueprint](workflow.png) 
 
 ---
 
